@@ -13,4 +13,4 @@
 
 ## RSA
 - [Основы шифроввания, алгоритм RSA](https://www.securitylab.ru/analytics/479009.php)
-- [Лекция от НОУ ИНТУИТ](https://intuit.ru/studies/courses/691/547/lecture/12383?page=2](https://intuit.ru/studies/courses/13837/1234/lecture/31200?page=1)
+- [Лекция от НОУ ИНТУИТ](https://intuit.ru/studies/courses/13837/1234/lecture/31200?page=1)
